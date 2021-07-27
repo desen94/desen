@@ -7,12 +7,12 @@ I have gone through a number of phases in my career, and each of them has inform
 ### Languages and Technologies: 
 ![HTML](https://img.shields.io/badge/-HTML-404040?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-404040?style=flat&logo=CSS3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-Sass-404040?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-404040?style=flat&logo=javaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-404040?style=flat&logo=typeScript)
-![SASS](https://img.shields.io/badge/-Sass-404040?style=flat&logo=sass)
 ![React](https://img.shields.io/badge/-React-404040?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-404040?style=flat&logo=redux)
-![Redux](https://img.shields.io/badge/-Jest-404040?style=flat&logo=jest&logoColor=C63D14)
+![Jest](https://img.shields.io/badge/-Jest-404040?style=flat&logo=jest&logoColor=C63D14)
 
 ### Tools: 
 ![Git](https://img.shields.io/badge/-Git-404040?style=flat&logo=git)
