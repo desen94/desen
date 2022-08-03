@@ -33,6 +33,7 @@ I have gone through a number of phases in my career, and each of them has inform
 ![Docker](https://img.shields.io/badge/-Docker-404040?style=flat&logo=docker)
 ![IDE WebStorm](https://img.shields.io/badge/-WebStorm-404040?style=flat&logo=webstorm&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-404040?style=flat&logo=figma)
+![Jira Software](https://img.shields.io/badge/-Jira_Software-404040?style=flat&logo=Jira-Software)
 
 ### Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-404040?style=flat&logo=telegram)](https://t.me/desen)
